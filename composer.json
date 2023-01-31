@@ -19,6 +19,7 @@
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-recommended": "^9.2",
         "drush/drush": "^10",
+        “drupal/pathauto”: “^1.11",
         "pantheon-systems/drupal-integrations": "^9",
         "pantheon-upstreams/upstream-configuration": "self.version"
     },
