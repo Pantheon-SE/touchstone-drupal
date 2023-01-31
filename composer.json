@@ -20,6 +20,7 @@
         "drupal/core-recommended": "^9.2",
         "drush/drush": "^10",
         “drupal/pathauto”: “^1.11",
+        “drupal/webform”: “^6.1.3",
         "pantheon-systems/drupal-integrations": "^9",
         "pantheon-upstreams/upstream-configuration": "self.version"
     },
